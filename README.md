@@ -1,6 +1,6 @@
 ### Hi there I'm Purva Firodia 👋
 
-- 🎓 I’m a Computer Engineer. <br>
+- 🎓 I’m a Software Engineer. <br>
 - 🚀 I’m currently Learning Salesforce Developer Path from TrailHead Platform. <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   🎖️ checkout my TrailHead Profile: https://trailblazer.me/id/pfirodia
 - 📫 How to reach me: 📧 email - firodiapurva@gmail.com <br>
