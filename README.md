@@ -3,15 +3,11 @@
 - 🎓 I’m a Data Science Graduate Student and a Software Engineer. <br>
 
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
-
-
-
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
-      🎖️ checkout my TrailHead Profile: https://trailblazer.me/id/pfirodia
+ 
+🎖️ checkout my TrailHead Profile: https://trailblazer.me/id/pfirodia
 - 📫 How to reach me: <br>
 - 📧 email - purvaa31@gmail.com <br>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          💣 LinkedIn - https://www.linkedin.com/in/purvaf
-
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💣 LinkedIn - https://www.linkedin.com/in/purvaf
   <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
