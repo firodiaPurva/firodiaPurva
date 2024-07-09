@@ -1,8 +1,7 @@
-<h3 align="center"> Hi there! I'm Purva Firodia <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="40" height="48" /> </h3>
+<h3 align="center" > Hi there! I'm Purva Firodia <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="40" height="40" /> </h3>
 <br>
 
-🎓 Welcome to my GitHub! I'm a passionate Data Scientist and Developer currently pursuing my Master's in Data Science. With a background in Computer Engineering, I enjoy 
-  leveraging data analytics and machine learning to solve complex problems and drive meaningful insights.
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Welcome to my GitHub! I'm a passionate Data Scientist and Developer currently pursuing my Master's in Data Science. With a background in Computer Engineering, I enjoy leveraging data analytics and machine learning to solve complex problems and drive meaningful insights.
 
 <img align="right" src="(https://www.flaticon.com/free-sticker/computer-engineer_11471274?term=coding&page=1&position=9&origin=search&related_id=11471274)" width="500" height="320" />
 
