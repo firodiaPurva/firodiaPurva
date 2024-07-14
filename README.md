@@ -22,6 +22,6 @@
   </li>
 </ul>
 <br><br>
-<br><br><br><br>
+<br><br>
 
 [![An image of @firodiapurva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/firodiapurva)](https://holopin.io/@firodiapurva)
