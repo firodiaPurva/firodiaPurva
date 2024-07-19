@@ -24,4 +24,6 @@
 <br><br>
 <br><br>
 
+[![firodiaPurva's GitHub | Stats](https://stats.quira.sh/firodiaPurva/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=firodiaPurva)
+
 [![An image of @firodiapurva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/firodiapurva)](https://holopin.io/@firodiapurva)
