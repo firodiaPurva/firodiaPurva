@@ -27,10 +27,10 @@
 </ul>
 <br><br>
 <div style="display: flex; align-items: flex-start; gap: 40px;">
-    <a href="https://git.io/streak-stats">
+    <a>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=firodiaPurva&theme=highcontrast&card_width=550&card_height=250" alt="GitHub Streak" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firodiaPurva&layout=compact&theme=highcontrast" style="height: 250px;" alt="Top Languages" />
     </a>
 </div>
