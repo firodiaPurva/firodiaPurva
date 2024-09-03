@@ -15,15 +15,15 @@
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="20" height="20" /> How to reach me:
     <ul>
-      <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="20" height="18" /> Email - purvaa31@gmail.com </li>
+      <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="20" height="18" /> Email - <a href="purvaa31@gmail.com">purvaa31@gmail.com </li>
       <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="18" height="18" />
  LinkedIn - <a href="https://www.linkedin.com/in/purvaf">https://www.linkedin.com/in/purvaf</a></li>
+     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="18" height="18" />
+ My Portfolio - <a href="https://purvafirodia.co/">https://purvafirodia.co</a></li>
     </ul>
   </li>
 </ul>
 <br><br>
 <br><br>
-
-[![firodiaPurva's GitHub | Stats](https://stats.quira.sh/firodiaPurva/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=firodiaPurva)
 
 [![An image of @firodiapurva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/firodiapurva)](https://holopin.io/@firodiapurva)
