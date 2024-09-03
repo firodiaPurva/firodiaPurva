@@ -25,14 +25,14 @@
     </ul>
   </li>
 </ul>
-<br><br>
-<div style="display: flex; align-items: center; justify-content: center; gap: 40px;">
+<br>
+       
+### Github Statistics 📈 
+<br>
+<div style="display: flex; align-items: flex-start; gap: 40px;">
     <a>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=firodiaPurva&theme=highcontrast&card_width=600&card_height=250" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=firodiaPurva&theme=highcontrast&card_width=520&card_height=250" alt="GitHub Streak" />
     </a>
- <br>
- <br>
- <br>
     <a>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firodiaPurva&layout=compact&theme=highcontrast" style="height: 250px;" alt="Top Languages" />
     </a>
