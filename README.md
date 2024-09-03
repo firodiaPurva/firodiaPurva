@@ -1,10 +1,12 @@
 <h3 align="center"> Hi there! I'm Purva Firodia <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="50" height="55" /></h3>
 <h3 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="30">&nbsp; Welcome to my GitHub!!  </h3>
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" />   I'm a passionate Data Scientist and Developer currently pursuing my Master's in Data Science. With a background in Computer Engineering, I enjoy leveraging data analytics and machine learning to solve complex problems and drive meaningful insights. </h3>
 <br> <br>
-
-<img align="right" src="https://github.com/firodiaPurva/MediaAssets/blob/c27f2e399b67a8c0126002ba6ff9c2ffc8922dfa/fantaixi.gif" width="400" height="350" /> 
-
+<div align="center">
+<img  align = "center" src="https://github.com/firodiaPurva/MediaAssets/blob/b8cd928c8093caef30082719b8dd014356bb0cd4/Now%2C%20Github%20allows%20diagrams%20and%20flowcharts%20in%20markdown%20files.jpg" width="1000" height="450" /> 
+</div>
+<br> <br>
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" />   I'm a passionate Data Scientist and Developer currently pursuing my Master's in Data Science. With a background in Computer Engineering, I enjoy leveraging data analytics and machine learning to solve complex problems and drive meaningful insights. </h3>
+<br>
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="22" height="22" /> 
  About Me</h3>
  <br>
@@ -24,6 +26,17 @@
   </li>
 </ul>
 <br><br>
-<br><br>
+<div style="display: flex; align-items: flex-start;">
+    <a href="https://git.io/streak-stats" style="margin-right: 40px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=firodiaPurva&theme=highcontrast&card_width=550&card_height=250" alt="GitHub Streak" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left: 40px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firodiaPurva&layout=compact&theme=highcontrast" style="height: 250px;" alt="Top Languages" />
+    </a>
+</div>
+
+
+<br>
+<br>
 
 [![An image of @firodiapurva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/firodiapurva)](https://holopin.io/@firodiapurva)
