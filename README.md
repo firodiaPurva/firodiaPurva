@@ -21,7 +21,7 @@
       <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="18" height="18" />
  LinkedIn - <a href="https://www.linkedin.com/in/purvaf">https://www.linkedin.com/in/purvaf</a></li>
      <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="18" height="18" />
- My Portfolio - <a href="https://purvafirodia.co/">https://purvafirodia.co</a></li>
+ My Portfolio - <a href="https://www.datascienceportfol.io/purvafirodia">https://www.datascienceportfol.io/purvafirodia</a></li>
     </ul>
   </li>
 </ul>
