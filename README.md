@@ -19,7 +19,7 @@
     <ul>
       <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="20" height="18" /> Email - <a href="purvaa31@gmail.com">purvaa31@gmail.com </li>
       <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="18" height="18" />
- LinkedIn - <a href="https://www.linkedin.com/in/purvafirodia">https://www.linkedin.com/in/purvafirodia/</a></li>
+ LinkedIn - <a href="https://www.linkedin.com/in/purvafirodia">https://www.linkedin.com/in/purvafirodia</a></li>
      <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="18" height="18" />
  My Portfolio - <a href="https://www.datascienceportfol.io/purvafirodia">https://www.datascienceportfol.io/purvafirodia</a></li>
     </ul>
