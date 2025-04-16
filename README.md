@@ -7,6 +7,10 @@
 <br> <br>
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" />   I'm a passionate Data Scientist and Developer currently pursuing my Master's in Data Science. With a background in Computer Engineering, I enjoy leveraging data analytics and machine learning to solve complex problems and drive meaningful insights. </h3>
 <br>
+
+---
+
+
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="22" height="22" /> 
  About Me</h3>
  <br>
@@ -29,7 +33,8 @@
 
 ---
 
-### Certifications 📜
+### 📜 Certifications
+<br>
 
 
 <p align="left">
@@ -40,7 +45,8 @@
 ---
 
 
-### Github Statistics 📈 
+### 📈 Github Statistics
+
 <br>
 <div style="display: flex; align-items: flex-start; gap: 40px;">
     <a>
@@ -52,10 +58,10 @@
 </div>
 
 
-
-
-
 <br>
+
+---
+
 <br>
 
 [![An image of @firodiapurva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/firodiapurva)](https://holopin.io/@firodiapurva)
