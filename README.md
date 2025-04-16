@@ -26,7 +26,20 @@
   </li>
 </ul>
 <br>
-       
+
+---
+
+### Certifications 📜
+
+
+<p align="left">
+  <img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="120" height="120"/>
+  <img src="https://images.credly.com/size/680x680/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" alt="AWS Certified AI Practitioner" width="120" height="120"/>
+</p>
+
+---
+
+
 ### Github Statistics 📈 
 <br>
 <div style="display: flex; align-items: flex-start; gap: 40px;">
